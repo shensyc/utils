@@ -40,7 +40,6 @@ formatTime(time, cFormat) {
     return time_str
 }
 
-
 /**
  * 返回指定长度的月份集合
  * 
