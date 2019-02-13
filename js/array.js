@@ -3,7 +3,6 @@ contains (arr, val) {
     return arr.indexOf(val) != -1 ? true : false;
 }
 
-
 /**
  * @param  {arr} 数组
  * @param  {fn} 回调函数
