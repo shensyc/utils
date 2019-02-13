@@ -34,7 +34,6 @@ map (arr, fn, thisObj) {
     return a;
 }
 
-
 /**
  * @param  {arr} 数组
  * @param  {type} 1：从小到大   2：从大到小   3：随机
